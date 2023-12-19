@@ -1,0 +1,11 @@
+{
+  "folders": [
+	{
+		"name": "YogaCurses",
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "YogaCurses"
+  }
+}
